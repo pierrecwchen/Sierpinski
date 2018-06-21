@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SierpinskiAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{49, 298}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SierpinskiAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{410, 0}";
+			sepNavVisRange = "{240, 368}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sierpinski */ = {
+		activeExec = 0;
+		executables = (
+			7C9A05BF1340D28F00B6EFD1 /* Sierpinski */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7C9A05BF1340D28F00B6EFD1 /* Sierpinski */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sierpinski */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Sierpinski */,
+		);
+		codeSenseManager = 7C9A05CF1340D29700B6EFD1 /* Code sense */;
+		executables = (
+			7C9A05BF1340D28F00B6EFD1 /* Sierpinski */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323045781;
+			PBXWorkspaceStateSaveDate = 323045781;
+		};
+		perUserProjectItems = {
+			7C7028EF134150DD006E05F6 /* PBXTextBookmark */ = 7C7028EF134150DD006E05F6 /* PBXTextBookmark */;
+			7C7028F0134150DD006E05F6 /* PBXTextBookmark */ = 7C7028F0134150DD006E05F6 /* PBXTextBookmark */;
+			7C7028F1134150DD006E05F6 /* PBXTextBookmark */ = 7C7028F1134150DD006E05F6 /* PBXTextBookmark */;
+			7C7028F2134150DD006E05F6 /* PBXTextBookmark */ = 7C7028F2134150DD006E05F6 /* PBXTextBookmark */;
+			7C7028F4134150EF006E05F6 /* PBXTextBookmark */ = 7C7028F4134150EF006E05F6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7C9A05CE1340D29700B6EFD1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7C7028EF134150DD006E05F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SierpinskiAppDelegate.m */;
+		name = "SierpinskiAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 240;
+	};
+	7C7028F0134150DD006E05F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SierpinskiAppDelegate.h */;
+		name = "SierpinskiAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 49;
+	};
+	7C7028F1134150DD006E05F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C9A05D61340D41300B6EFD1 /* Drawing.h */;
+		name = "Drawing.h: 13";
+		rLen = 0;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 154;
+	};
+	7C7028F2134150DD006E05F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C9A05D71340D41300B6EFD1 /* Drawing.m */;
+		name = "Drawing.m: 6";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	7C7028F4134150EF006E05F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7C9A05D71340D41300B6EFD1 /* Drawing.m */;
+		name = "Drawing.m: 17";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 130;
+	};
+	7C9A05BF1340D28F00B6EFD1 /* Sierpinski */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sierpinski;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7C9A05CE1340D29700B6EFD1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7C9A05CF1340D29700B6EFD1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7C9A05D61340D41300B6EFD1 /* Drawing.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 325}}";
+			sepNavSelRange = "{294, 0}";
+			sepNavVisRange = "{154, 321}";
+		};
+	};
+	7C9A05D71340D41300B6EFD1 /* Drawing.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 1456}}";
+			sepNavSelRange = "{582, 0}";
+			sepNavVisRange = "{363, 382}";
+		};
+	};
+}

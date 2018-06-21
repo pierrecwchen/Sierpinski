@@ -1,0 +1,245 @@
+TSierpinski
+v7
+r0
+t323047645.175206
+cCheck dependencies
+cProcessInfoPlistFile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Info.plist Sierpinski-Info.plist
+cCompileXIB /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib
+cProcessPCH /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch.gch Sierpinski_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/main.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/SierpinskiAppDelegate.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Drawing.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski normal i386
+cGenerateDSYMFile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app.dSYM /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski
+cTouch /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.h
+c000000004D91178A00000000000001E0
+t1301354378
+s480
+i<UIKit/UIKit.h>
+i"SierpinskiAppDelegate.h"
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m
+c000000004D91195B000000000000096E
+t1301354843
+s2414
+i"Drawing.h"
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.h
+c000000004D91177C000000000000015C
+t1301354364
+s348
+i<UIKit/UIKit.h>
+i"Drawing.h"
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m
+c000000004D91177A00000000000009CF
+t1301354362
+s2511
+i"SierpinskiAppDelegate.h"
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib
+c000000004D9116AD00000000000059B9
+t1301354157
+s22969
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Sierpinski_Prefix.pch
+c000000004D909B0F00000000000000BD
+t1301322511
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app
+t1301354845
+s204
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app.dSYM
+t1301354845
+s102
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Info.plist
+t1301323689
+s603
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/MainWindow.nib
+t1301354159
+s1407
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/PkgInfo
+t1301323689
+s8
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski
+t1301354845
+s22208
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Drawing.o
+t1301354845
+s46192
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Sierpinski.LinkFileList
+c000000004D909FA900000000000001BE
+t1301323689
+s446
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/SierpinskiAppDelegate.o
+t1301354845
+s49460
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/main.o
+t1301323691
+s6332
+
+N/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m
+c000000004D909B0F0000000000000166
+t1301322511
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch.gch
+t1301323691
+s15453392
+
+NSierpinski-Info.plist
+c000000004D909B0F000000000000038D
+t1301322511
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323047644#323047644#0(0"0(0#1#0"8625722624#0"0#
+
+CCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Drawing.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323047644.874643
+e323047645.114808
+r1
+xCompileC
+xbuild/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Drawing.o
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m: In function '-[Drawing drawRect:]':
+o/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: 'Drawing' may not respond to '-drawGasketWithPoint1:withPoint2:withPoint3:withLevel:'
+o/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: (Messages without a matching method signature
+o/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: will be assumed to return 'id' and accept
+o/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: '...' as arguments.)
+lSLF07#2@78"Compile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m323047644#323047645#0(639"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m: In function '-[Drawing drawRect:]':/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: 'Drawing' may not respond to '-drawGasketWithPoint1:withPoint2:withPoint3:withLevel:'/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: (Messages without a matching method signature/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: will be assumed to return 'id' and accept/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m:38: warning: '...' as arguments.)2(22@85"'Drawing' may not respond to '-drawGasketWithPoint1:withPoint2:withPoint3:withLevel:'323047645#108#170#0(6@70"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m323047643#38#0#38#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)323047645#278#130#0(6@70"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m323047643#38#0#38#0#0"0(0#0#70"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m8616373568#2142"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-generated-files.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-own-target-headers.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-all-target-headers.hmap -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-project-headers.hmap -F/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/include -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources/i386 -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources -include /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch -c /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/Drawing.m -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Drawing.o0#
+
+CCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/SierpinskiAppDelegate.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323047644.873293
+e323047645.016903
+r1
+xCompileC
+xbuild/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/SierpinskiAppDelegate.o
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m323047644#323047645#0(0"0(0#0#84"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m8618176320#2170"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-generated-files.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-own-target-headers.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-all-target-headers.hmap -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-project-headers.hmap -F/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/include -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources/i386 -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources -include /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch -c /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Classes/SierpinskiAppDelegate.m -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/SierpinskiAppDelegate.o0#
+
+CCompileC build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/main.o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323016491.372320
+e323016491.553886
+r1
+xCompileC
+xbuild/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/main.o
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m323016491#323016491#0(0"0(0#0#59"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m8641036320#2128"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-generated-files.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-own-target-headers.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-all-target-headers.hmap -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-project-headers.hmap -F/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/include -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources/i386 -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources -include /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch -c /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/main.m -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib
+s323046959.189678
+e323046959.735281
+r1
+xCompileXIB
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib
+o2011-03-28 16:15:59.595 Interface Builder Cocoa Touch Tool[6150:1903] CFPreferences: user home directory at file://localhost/Users/cs212/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib323046959#323046959#0(239"2011-03-28 16:15:59.595 Interface Builder Cocoa Touch Tool[6150:1903] CFPreferences: user home directory at file://localhost/Users/cs212/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#67"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib8620501440#615"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/MainWindow.nib /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app.dSYM /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski
+s323047645.150111
+e323047645.170770
+r1
+xGenerateDSYMFile
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app.dSYM
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Sierpinski.app.dSYM build/Debug-iphonesimulator/Sierpinski.app/Sierpinski323047645#323047645#0(0"0(0#0#106"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski8625735936#434"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app.dSYM0#
+
+CLd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski normal i386
+s323047645.114932
+e323047645.149988
+r1
+xLd
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski
+xnormal
+xi386
+lSLF07#2@111"Link /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski323047645#323047645#0(0"0(0#0#0"8626331584#985"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -F/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -filelist /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Objects-normal/i386/Sierpinski.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Sierpinski0#
+
+CProcessInfoPlistFile /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Info.plist Sierpinski-Info.plist
+s323016489.337269
+e323016489.457372
+r1
+xProcessInfoPlistFile
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Info.plist
+xSierpinski-Info.plist
+lSLF07#2@29"Process Sierpinski-Info.plist323016489#323016489#0(0"0(0#0#74"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Sierpinski-Info.plist29555353598427236#530"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sierpinski-Info.plist -genpkginfo /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app/Info.plist0#
+
+CProcessPCH /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch.gch Sierpinski_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323016489.919489
+e323016491.372079
+r1
+xProcessPCH
+x/var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch.gch
+xSierpinski_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Sierpinski_Prefix.pch323016489#323016491#0(0"0(0#0#74"/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Sierpinski_Prefix.pch8636494080#2003"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-generated-files.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-own-target-headers.hmap -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-all-target-headers.hmap -iquote /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/Sierpinski-project-headers.hmap -F/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/include -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources/i386 -I/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Sierpinski.build/Debug-iphonesimulator/Sierpinski.build/DerivedSources -c /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/Sierpinski_Prefix.pch -o /var/folders/MP/MPgwzVlHFACoUVo9zts6v++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sierpinski_Prefix-hkbttrhcepgogqgphqimdmtrncpy/Sierpinski_Prefix.pch.gch0#
+
+CTouch /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app
+s323047645.170885
+e323047645.175147
+r1
+xTouch
+x/Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app
+lSLF07#2@101"Touch /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app323047645#323047645#0(0"0(0#0#0"8621307360#309"    cd /Users/cs212/Documents/Golampierre/Pierre/Sierpinski    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cs212/Documents/Golampierre/Pierre/Sierpinski/build/Debug-iphonesimulator/Sierpinski.app0#
+

@@ -1,2 +1,3 @@
 # Sierpinski
-This repository demonstrates a little my knowledge of Objective-C
+
+This program was created in 2011 with XCode under MacOS. The program draws sierpinski triangles.
